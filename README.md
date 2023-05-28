@@ -1,8 +1,8 @@
-Project Overview:
+## Project Overview:
 
 This Connect-4 game project aims to provide an interactive and enjoyable gaming experience for users. It includes multiplayer functionality and AI integration, allowing players to compete against each other or challenge an AI opponent. The project incorporates various features and concepts, as outlined below.
 
-Project Features:
+## Project Features:
 
 Game Board Styling: The individual components of the game board are styled to create an appealing visual representation. CSS is used to enhance the overall look and feel of the game.
 
@@ -22,7 +22,7 @@ Conditional Rendering: Components or elements are conditionally rendered based o
 
 Automatic Winner Determination: The Connect-4 game is designed to automatically determine the winner in both multiplayer and AI-based single-player modes. This functionality adds excitement and competitiveness to the game.
 
-Deployment:
+## Deployment:
 To see the Connect-4 game in action, you can access the deployed application via the following link: http://greasy-dock.surge.sh/ 
 
 HAVE FUN!
